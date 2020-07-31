@@ -1,6 +1,9 @@
 # seam-carving
 > Minimalistic seam carving.
 
+You can refer to the paper [here](https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf).
+
+## Examples
 |Before|After|Procedure|
 |--|--|--|
 |![img](./examples/castle/before.jpg)|![img](./examples/castle/after.jpg)|![img](./examples/castle/demo.gif)|
